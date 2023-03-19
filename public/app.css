@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(75, 90, 104);
+    color:white;
+    max-width:800px;
+    margin: auto;
+}
+.centering{
+    text-align: center;
+}
+p{
+    line-height: 1.6;
+    text-align: justify;
+    
+}
+h1{
+    text-align: center;
+    color:chocolate;
+}
+.back{
+    color:aqua;
+}
